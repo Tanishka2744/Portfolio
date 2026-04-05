@@ -1,4 +1,4 @@
-# 🌟 Tanishka.dev - Personal Portfolio
+# 🌟 Personal Portfolio
 
 Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
