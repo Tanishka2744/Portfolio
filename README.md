@@ -1,49 +1,63 @@
-# Frontend Developer Portfolio 🌐
+# 🌟 Tanishka.dev - Personal Portfolio
 
-This is my personal **Frontend Developer Portfolio** built using **HTML, CSS, and JavaScript**.  
-It showcases my skills, projects, and design approach through clean, responsive, and interactive web interfaces.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
----
+**Tanishka.dev** is my personal portfolio website, built using **HTML, CSS, and JavaScript**, designed to showcase my **skills, projects, and achievements** with a clean, modern, and responsive layout.
 
-## 🚀 Features
-
-- Fully responsive design for all devices  
-- Clean and modern UI layout  
-- Interactive components using JavaScript  
-- Smooth navigation and user-friendly structure  
-- Well-structured and readable code  
+💡 This project focuses on **personal branding, UI design, and structured content presentation**, making it easy for recruiters and clients to explore my work.
 
 ---
 
-## 🛠️ Technologies Used
+## 🌐 Live Demo
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
+[🌐 View Tanishka.dev Live](https://portfolio-blue-three-21.vercel.app/)
 
 ---
 
-## 📁 Projects Included
+## 🌈 Tech Skills
 
-- Website UI Designs  
-- Landing Pages  
-- Clone Websites  
-- Interactive Components  
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
 
-Each project reflects real-world frontend development practices.
-
----
-
-## 🎯 Purpose
-
-This portfolio is created to demonstrate my frontend development skills and present my work professionally to **recruiters and hiring managers**.
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
 
 ---
 
-## 📧 Contact
+## 💻 About Tanishka.dev
 
-If you'd like to connect or collaborate, feel free to reach out!
+- Designed as a **personal portfolio website**  
+- Showcases **skills, projects, and accomplishments**  
+- Built with **clean and responsive layout**  
+- Focused on **modern UI and user-friendly experience**  
+- Highlights **personal branding and web design skills**  
+
+### 🌟 Key Features
+
+- **Interactive Sections:** Smooth scrolling and section navigation  
+- **Projects Showcase:** Detailed presentation of all projects with links  
+- **Responsive Design:** Looks great on desktop, tablet, and mobile  
+- **Contact & Social Links:** Easy access to portfolio, LinkedIn, GitHub, Twitter, and email  
+- **Modern UI Elements:** Buttons, cards, and layouts designed for visual appeal  
 
 ---
 
-⭐ If you like this portfolio, don’t forget to star the repository!
+## 🌱 Learning & Growth
+
+- 🎨 Enhancing **UI/UX design skills**  
+- 🌐 Strengthening **responsive web development techniques**  
+- 💻 Building a **personal brand through web presence**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
